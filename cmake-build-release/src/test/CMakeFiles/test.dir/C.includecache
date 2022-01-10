@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/DataStructure/LinearList/SequenceList.h
+stdbool.h
+-
+
+D:/Projects/C/datastruct/src/test/test.c
+stdio.h
+-
+SequenceList.h
+-
+stdbool.h
+-
+

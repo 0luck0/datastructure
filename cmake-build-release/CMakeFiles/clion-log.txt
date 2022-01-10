@@ -1,0 +1,4 @@
+"D:\Program Files\JetBrains\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - MinGW Makefiles" D:\Projects\C\datastruct
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Projects/C/datastruct/cmake-build-release
