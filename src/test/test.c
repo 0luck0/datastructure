@@ -3,7 +3,7 @@
 #include<stdbool.h>
 
 /**
- * 测试 sqeuence lsit
+ * 测试 sqeuence list
  */
 void testSqeuenceList() {
     int a;

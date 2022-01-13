@@ -15,7 +15,13 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e1fb21-aa97-488c-99de-d5e5de8e0dba" name="默认变更列表" comment="create project" />
+    <list default="true" id="62e1fb21-aa97-488c-99de-d5e5de8e0dba" name="默认变更列表" comment="create project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/test/CMakeFiles/test.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/test/CMakeFiles/test.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/test/test.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/test/test.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/test.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/test.c" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,7 +102,7 @@
       <option name="presentableId" value="Default" />
       <updated>1641788384555</updated>
       <workItem from="1641788387104" duration="5355000" />
-      <workItem from="1641796880319" duration="2919000" />
+      <workItem from="1641796880319" duration="3454000" />
     </task>
     <task id="LOCAL-00001" summary="create project">
       <created>1641790765736</created>
